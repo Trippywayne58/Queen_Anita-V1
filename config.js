@@ -4,16 +4,16 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '254708002615'
+global.nomerowner = ["254708002615"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
-global.casterix = 'DeeCeeXxx'
+global.skizo = 'Dcyoungfly 
+global.casterix = 'Young'
 //watermark 
-global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V1'
+global.packname = '*Dcyoungfly*'
+global.author = 'Trippy'
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
